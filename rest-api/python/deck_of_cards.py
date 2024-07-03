@@ -25,7 +25,6 @@ SOFTWARE.
 
 import requests
 
-
 url = "https://deckofcardsapi.com/api/deck/new/shuffle/"
 querystring = {"deck_count": "6"}
 headers = {
